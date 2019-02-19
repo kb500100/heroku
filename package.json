@@ -1,0 +1,23 @@
+{
+  "lockfileVersion": 1,
+  "name": "heroku_code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kb500100/BathSolutions.git"
+  },
+  "author": "Keldrick Mitchell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kb500100/BathSolutions/issues"
+  },
+  "homepage": "https://github.com/kb500100/BathSolutions#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
