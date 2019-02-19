@@ -4,18 +4,18 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kb500100/BathSolutions.git"
+    "url": "git+https://git.heroku.com/damp-ridge-73858.git "
   },
   "author": "Keldrick Mitchell",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kb500100/BathSolutions/issues"
+    "url": "https://github.com/kb500100/heroku.git"
   },
-  "homepage": "https://github.com/kb500100/BathSolutions#readme",
+  "homepage": "https://git.heroku.com/damp-ridge-73858.git",
   "description": "",
   "dependencies": {
     "express": "^4.16.4"
