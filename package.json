@@ -1,10 +1,10 @@
-{
+x{
   "lockfileVersion": 1,
   "name": "heroku_code",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
